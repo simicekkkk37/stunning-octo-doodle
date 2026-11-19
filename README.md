@@ -1,6 +1,6 @@
 # Fedora Linux – svoboda, inovace a otevřený software
 
-\!Logo a ilustrace Fedora Linux
+![Logo a ilustrace Fedora Linux](images/fedora.svg)
 
 **Fedora Linux** je svobodný a open-source operační systém založený na linuxovém jádře. Je známý především moderními technologiemi, důrazem na bezpečnost, otevřenost a rychlé zavádění novinek. Projekt Fedora byl založen v roce 2003 a je podporován společností Red Hat společně s celosvětovou komunitou vývojářů.
 
